@@ -10,9 +10,6 @@ module.exports = {
         ],
         sidebar: [
             {text: 'Vue Weather', link: '/projects/vue-weather',
-            // children: [
-            //     {text: 'Page 1', link: '/projects/vue-weather'},
-            // ]
             },
             {text: 'Project Manager', link: '/projects/vue-project-manager'},
             {text: 'Vue Puzzle Slider', link: '/projects/vue-puzzle-slider'},
