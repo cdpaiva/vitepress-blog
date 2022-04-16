@@ -1,7 +1,6 @@
 <template>
   <div class="toggleTheme" @click="toggle">
-    <div class="light" v-if="isLight">🔆</div>
-    <div class="dark" v-else>🌙</div>
+    {{isLight ? '🌙' : '🔆'}}
   </div>
 </template>
 
@@ -25,7 +24,7 @@ export default {
 <style scoped>
 .toggleTheme {
   cursor: pointer;
-  width: 1.5rem;
+  font-size: 1.5rem;
   margin-left: 1rem;
 }
 </style>
