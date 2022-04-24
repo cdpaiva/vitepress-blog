@@ -8,4 +8,7 @@
     --c-bg: rgba(33, 33, 33);
     --c-text: #fefefe;
     --c-hover: #ffffff;
+
+    --code-inline-bg-color: rgb(78, 78, 78);
+    --c-text-light-2: #00d335;
 }
