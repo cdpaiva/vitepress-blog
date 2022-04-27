@@ -6,7 +6,7 @@ heroText: Carlos Damiani Paiva
 tagline: Software developer in formation
 ---
 
-# Welcome to my personal (_experimental version_) blog
+# Welcome to my personal blog
 
 I'm fascinated about web development.
 I use this blog to learn in public, by describing the projects I'm currently building and presenting my own studying notes. 

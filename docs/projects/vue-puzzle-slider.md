@@ -1,7 +1,7 @@
-Puzzle Slider
-=============
+Vue Puzzle Slider
+=================
 
-%%%% Descriptive Image %%%%
+![vue-weather](../assets/vue-puzzle-slider.png)
 
 ## Description
 
@@ -9,7 +9,7 @@ Vue Slider Puzzle is an application created with Vue.js in which users can play 
 There are currently two images that can be picked.
 Once the game starts, the selected image is sliced into a 3x3 grid and a timer starts. 
 The player can swap the tiles by clicking on the first and then the second title.
-Once the shuffled titles are re-ordered as the original picture, the game is won.
+Once the shuffled titles are re-organized as the original picture, the game is won.
 This project is based on the Chapter 3 of the book Learn Vue.js by Example, written by John Au-Yeung.
 The book's version can be found [in here](https://github.com/PacktPublishing/-Vue.js-3-By-Example/tree/master/Chapter03).
 I've created a new layout, added new tests and covered a few unimplemented edge cases, that will be presented in this text.
