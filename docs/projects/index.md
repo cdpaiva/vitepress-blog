@@ -1,5 +1,5 @@
-Projects in progress
-====================
+Personal Projects
+=================
 
 The best way to learn is by doing!
 
@@ -13,4 +13,4 @@ Web application to keep track of the projects I work on. Includes a project list
 
 ## [Puzzle Slider](./vue-puzzle-slider.md)
 
-Puzzle Slider game. Includes testing and local memory storage.
+Puzzle Slider game. Built to apply unit tests.
