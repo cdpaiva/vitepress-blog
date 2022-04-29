@@ -1,7 +1,7 @@
 Vue Puzzle Slider
 =================
 
-![vue-weather](../assets/vue-puzzle-slider.png)
+![vue-weather](../assets/vue-puzzle-slider.jpg)
 
 ## Description
 
