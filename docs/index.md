@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/logo.png
+heroImage: /logo.png
 heroAlt: Logo image
 heroText: Carlos Damiani Paiva
 tagline: Software developer in formation
