@@ -1,7 +1,19 @@
 module.exports = {
-    title: 'Carlos Damiani Paiva',
     lang: 'en-US',
+    title: 'Carlos Damiani Paiva',
     description: 'A personal blog to document public learning Vue.js and frontend development',
+    head: [
+        ['script', 
+        {'async src': 'https://www.googletagmanager.com/gtag/js?id=G-LDKM6H7G23'}
+        ],
+        ['script',{},
+            `    window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+        
+            gtag('config', 'G-LDKM6H7G23', { 'cookieFlags': 'SameSite=None; Secure' });`
+        ]
+    ],
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
