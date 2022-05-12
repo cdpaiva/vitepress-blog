@@ -14,10 +14,6 @@ module.exports = {
                 text: 'Projects',
                 children: [
                     {
-                        text: 'Vue Weather',
-                        link: '/projects/vue-weather',
-                    },
-                    {
                         text: 'Project Manager',
                         link: '/projects/vue-project-manager'
                     },
@@ -25,6 +21,10 @@ module.exports = {
                         text: 'Vue Puzzle Slider',
                         link: '/projects/vue-puzzle-slider'
                     },
+                    {
+                        text: 'Vue Weather',
+                        link: '/projects/vue-weather',
+                    }
                 ]
             },
 

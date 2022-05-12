@@ -12,3 +12,7 @@
     --code-inline-bg-color: rgb(78, 78, 78);
     --c-text-light-2: #00d335;
 }
+
+tr:nth-child(2n) {
+    background-color: var(--c-bg)
+}
