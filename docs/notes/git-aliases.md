@@ -4,9 +4,9 @@ After quite some time repeating the cycle of staging changes and commiting them,
 I was sure there were several solutions to this, maybe a bash script, some special flag, or git command to perform this in a single action.
 I found on [SOF](https://stackoverflow.com/questions/2419249/how-can-i-stage-and-commit-all-files-including-newly-added-files-using-a-singl) a much better solution than I expected.
 
-Git already provides a way to have a better experience with repetitive commands.
+Git already provides a way to have a better experience with repetitive commands: [Git Aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases).
 To quote the git documentation, it is used to create _commands that you think should exist_.
-We can use [Git Aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) and Git will simply execute the commands stored in the alias.
+We can use an Alias and Git will simply execute the commands stored in the alias.
 
 To set an alias:
 
