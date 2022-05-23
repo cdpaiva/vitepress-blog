@@ -11,6 +11,9 @@ export default {
   enhanceApp({ app }) {
     app.component('CustomFooter', CustomFooter)
 
+    if (typeof document === 'undefined' || typeof window === 'undefined') {
+      return
+    }
     app.provide('analytics', Panelbear)
     Panelbear.load('BjpPhduGvha', {
       spaMode: 'history',
