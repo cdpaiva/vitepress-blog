@@ -24,6 +24,10 @@ module.exports = {
                     {
                         text: 'Vue Weather',
                         link: '/projects/vue-weather',
+                    },
+                    {
+                        text: 'React Time Tracker Dashboard',
+                        link: '/projects/react-time-tracking-dashboard',
                     }
                 ]
             },
