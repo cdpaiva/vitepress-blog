@@ -1,7 +1,7 @@
 Vue Puzzle Slider
 =================
 
-![vue-weather](../assets/vue-puzzle-slider.jpg)
+<img src="../assets/vue-puzzle-slider.jpg" alt="puzzle slider screenshot">
 
 ## Description
 

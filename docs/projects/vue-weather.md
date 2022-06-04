@@ -1,7 +1,8 @@
 vue-weather
 ===========
 
-![vue-weather](../assets/vue_weather.png)
+<img src="../assets/vue_weather.png" alt="vue-weather screenshot">
+
 
 ## Description
 
