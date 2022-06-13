@@ -28,6 +28,10 @@ module.exports = {
                     {
                         text: 'React Time Tracker Dashboard',
                         link: '/projects/react-time-tracking-dashboard',
+                    },
+                    {
+                        text: 'Fylo Landing Page',
+                        link: '/projects/fylo-landing-page',
                     }
                 ]
             },

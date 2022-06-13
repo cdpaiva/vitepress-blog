@@ -18,3 +18,7 @@ Example of using an API and retrieving information from it.
 ## [React Time Tracker Dashboard](./react-time-tracking-dashboard.md)
 
 Front-end mentor challenge. Grid dashboard built with SASS.
+
+## [Fylo Landing Page](./fylo-landing-page.md)
+
+Front-end mentor challenge. Responsive landing page built with SASS.
